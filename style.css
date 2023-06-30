@@ -1,6 +1,38 @@
-/*Style header*/
+header{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  background-color: #371d10;
+  color: tan ;
+  margin: -10px ;
+  padding: 10px;
+}
+div{
+  padding: 15px;
+}
+h2{
+  font-size:20px ;
+}
+h3{font-size: 18px;}
+main{
+  color: #371d10;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: -15px;
+  padding: 50px;
+  background-color: tan;
+  text-align: center ;
+}
+h2, h3 .Tfont{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-/*Use section containers between breaks*/
-
-
-/*Add a Footer*/
+.leftalign{
+text-align: left;
+}
+li, p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 15px;
+}
+section{
+  padding: 40px;
+}
